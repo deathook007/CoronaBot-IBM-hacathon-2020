@@ -3,9 +3,9 @@
 
   ## Tools Used
 - IBM Watson Assistant, Python 2 or 3, IBM Watson Studio, IBM Cloud for Deployment, Any Web / Mobile app frameworks
-  ## Structure and Implimentation
-   ![Image of Slack](https://github.com/deathook007/Covid-19_ChainBreakers-CoronaBot/blob/master/images/Capture-2.png)
-   ![Image of Slack](https://github.com/deathook007/Covid-19_ChainBreakers-CoronaBot/blob/master/images/Capture-1.png)
+  ## Structure and Implimentation-
+   ![Image of System-1](https://github.com/deathook007/Covid-19_ChainBreakers-CoronaBot/blob/master/images/Capture-2.PNG)
+   ![Image of System-2](https://github.com/deathook007/Covid-19_ChainBreakers-CoronaBot/blob/master/images/Capture-1.PNG)
 
   ## Features
 - This Bot is designed to provide the coronavirus updates and works as a post lockdown management system in whole.
