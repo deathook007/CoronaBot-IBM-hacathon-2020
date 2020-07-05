@@ -21,10 +21,8 @@
   -  How many Indian nationals have Corona Virus per State?
   -  How many deaths happened per State?
   -  The new States entering the corona zone like Chattisgarh (As per recorded data)
-   ## Slack interface looks like-
     ![Image of Slack](https://github.com/deathook007/Covid-19_ChainBreakers-CoronaBot/blob/master/images/Capture-01.png)
     ![Image of Slack](https://github.com/deathook007/Covid-19_ChainBreakers-CoronaBot/blob/master/images/Capture-03.png)
-   ## Mobile real time notification looks like-
     ![Image of Slack](https://github.com/deathook007/Covid-19_ChainBreakers-CoronaBot/blob/master/images/Capture-02.png)  
   
   ## Installation
