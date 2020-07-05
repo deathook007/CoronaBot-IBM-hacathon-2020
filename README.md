@@ -6,11 +6,13 @@
 
   ## Features
 - This Bot is designed to provide the coronavirus updates and works as a post lockdown management system in whole.
-- Get Slack notifications
+  # Get Slack notifications
   -  Notify whenever there are new cases in India
   -  How many Indian nationals have Corona Virus per State?
   -  How many deaths happened per State?
   -  The new States entering the corona zone like Chattisgarh (As per recorded data)
+  # Image related-
+    ![Image of Slack](https://octodex.github.com/images/yaktocat.png)
 - Too many updates? Don't worry! Subscribe only to the states that you want only
 - Reliablity- The source of data is official Government site ([here](https://mohfw.gov.in/))
 - Its ROBUST and QUICK!
