@@ -12,7 +12,7 @@
   -  How many deaths happened per State?
   -  The new States entering the corona zone like Chattisgarh (As per recorded data)
   # Image related-
-    ![Image of Slack](https://octodex.github.com/images/yaktocat.png)
+    ![Image of Slack](https://github.com/deathook007/Covid-19_ChainBreakers-CoronaBot/blob/master/images/Capture-01.png)
 - Too many updates? Don't worry! Subscribe only to the states that you want only
 - Reliablity- The source of data is official Government site ([here](https://mohfw.gov.in/))
 - Its ROBUST and QUICK!
