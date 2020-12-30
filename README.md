@@ -15,8 +15,9 @@
   - What if script fails? What if the Govt website changes format?
   -- You get Slack notifications about the exceptions too.
   -- You have log files (check `bot.log`) too, to evaluate what went wrong
-  
-# Get Slack notifications
+  <br>
+  ![screenshot](https://github.com/deathook007/cli-boilerplates/blob/master/Image%20-%20quick%20use/usage.png)
+## Get Slack notifications
   -  Notify whenever there are new cases in India
   -  How many Indian nationals have Corona Virus per State?
   -  How many deaths happened per State?
